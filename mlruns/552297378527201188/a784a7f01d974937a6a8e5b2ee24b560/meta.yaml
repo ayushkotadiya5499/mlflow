@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/552297378527201188/a784a7f01d974937a6a8e5b2ee24b560/artifacts
+deleted_time: 1738236317373
+end_time: 1738236242232
+entry_point_name: ''
+experiment_id: '552297378527201188'
+lifecycle_stage: deleted
+run_id: a784a7f01d974937a6a8e5b2ee24b560
+run_name: invincible-bass-508
+run_uuid: a784a7f01d974937a6a8e5b2ee24b560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738236241950
+status: 4
+tags: []
+user_id: ayush

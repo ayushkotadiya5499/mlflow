@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/414066682055438578/05b4c1387eef494bac26010f25a3f02d/artifacts
+deleted_time: 1738235363019
+end_time: 1738234942729
+entry_point_name: ''
+experiment_id: '414066682055438578'
+lifecycle_stage: deleted
+run_id: 05b4c1387eef494bac26010f25a3f02d
+run_name: bedecked-kite-868
+run_uuid: 05b4c1387eef494bac26010f25a3f02d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738234942679
+status: 3
+tags: []
+user_id: ayush

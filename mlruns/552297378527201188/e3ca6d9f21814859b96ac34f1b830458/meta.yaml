@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/552297378527201188/e3ca6d9f21814859b96ac34f1b830458/artifacts
+end_time: 1738235861142
+entry_point_name: ''
+experiment_id: '552297378527201188'
+lifecycle_stage: active
+run_id: e3ca6d9f21814859b96ac34f1b830458
+run_name: wistful-bug-109
+run_uuid: e3ca6d9f21814859b96ac34f1b830458
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738235860895
+status: 3
+tags: []
+user_id: ayush

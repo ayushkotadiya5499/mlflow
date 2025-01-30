@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/0b456697af9d460790e46d026bc9e1cd/artifacts
+deleted_time: 1738233990008
+end_time: 1738233445875
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0b456697af9d460790e46d026bc9e1cd
+run_name: crawling-ox-691
+run_uuid: 0b456697af9d460790e46d026bc9e1cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738233445770
+status: 4
+tags: []
+user_id: ayush

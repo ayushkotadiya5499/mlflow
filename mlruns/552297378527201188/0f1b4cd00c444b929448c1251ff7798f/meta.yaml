@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/552297378527201188/0f1b4cd00c444b929448c1251ff7798f/artifacts
+deleted_time: 1738235878410
+end_time: 1738235811840
+entry_point_name: ''
+experiment_id: '552297378527201188'
+lifecycle_stage: deleted
+run_id: 0f1b4cd00c444b929448c1251ff7798f
+run_name: merciful-rat-663
+run_uuid: 0f1b4cd00c444b929448c1251ff7798f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738235810892
+status: 3
+tags: []
+user_id: ayush

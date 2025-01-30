@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/414066682055438578/3f4e73a24d91447ab9ab309d8a5a6664/artifacts
+end_time: 1738235348673
+entry_point_name: ''
+experiment_id: '414066682055438578'
+lifecycle_stage: active
+run_id: 3f4e73a24d91447ab9ab309d8a5a6664
+run_name: big-fowl-801
+run_uuid: 3f4e73a24d91447ab9ab309d8a5a6664
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738235348624
+status: 3
+tags: []
+user_id: ayush

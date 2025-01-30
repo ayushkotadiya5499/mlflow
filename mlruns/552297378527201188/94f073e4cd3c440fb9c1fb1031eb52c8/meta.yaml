@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/552297378527201188/94f073e4cd3c440fb9c1fb1031eb52c8/artifacts
+end_time: 1738236273206
+entry_point_name: ''
+experiment_id: '552297378527201188'
+lifecycle_stage: active
+run_id: 94f073e4cd3c440fb9c1fb1031eb52c8
+run_name: marvelous-doe-949
+run_uuid: 94f073e4cd3c440fb9c1fb1031eb52c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738236265868
+status: 3
+tags: []
+user_id: ayush

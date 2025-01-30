@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/552297378527201188/0c9dd43b6bb44f9a893e47ecff2007d9/artifacts
+end_time: 1738236433912
+entry_point_name: ''
+experiment_id: '552297378527201188'
+lifecycle_stage: active
+run_id: 0c9dd43b6bb44f9a893e47ecff2007d9
+run_name: peaceful-squid-347
+run_uuid: 0c9dd43b6bb44f9a893e47ecff2007d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738236430338
+status: 3
+tags: []
+user_id: ayush
