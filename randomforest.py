@@ -8,7 +8,7 @@ import mlflow
 
 mlflow.set_tracking_uri("http://127.0.0.1:5000")
 
-x,y=make_classification(n_samples=25000,n_classes=2,n_redundant=2,n_informative=2,random_state=5)
+x,y=make_classification(n_samples=2500,n_classes=2,n_redundant=2,n_informative=2,random_state=5)
 x_train,x_test,y_train,y_test=train_test_split(x,y,test_size=0.2,random_state=5)
 
 n=10
